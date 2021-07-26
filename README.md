@@ -2,11 +2,12 @@
 <h1>Michi's Nixie-Clock</h1>
 
 <h2>Description: </h2>
-<p>The Nixie Clock is made for Michi, as his parting gift. Feature, a Youtube and Insatgram Follower Count, a watch and a date, all these is displayed with Nixie Tubes.</p>
+<p>The Nixie Clock is made for Michi, as his parting gift. Features: Youtube and Insatgram Follower Count, watch and a date. 
+The Features are displayed with Nixie Tubes.</p>
 <h2>Task Assignment:</h2>
 <li>Dario: Code (Software) </li>
 <li>Tino: PCB (Hardware)</li>
-<li>Baris: Background actions </li>
+<li>Baris: Background </li>
 <li>Mauro: GitHub & Soldering </li>
 </p>
 <h2>To Do's:</h2>
@@ -22,6 +23,8 @@
 <li>Test all Parts</li>
 <li>If Necessary: changes </li>
 <li>Parts assembling</li>
+</p>
+<h2>Links: </h2>
 
-
+<p> <a href="https://www.youtube.com/watch?v=mBaS3YnqDaU">ESP32 IDE Anleitung</a>.</p>
 
