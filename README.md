@@ -27,13 +27,7 @@ Everything is displayed with Nixie Tubes.</p>
 <h2>Links: </h2>
 
 <p> <a href="https://www.youtube.com/watch?v=mBaS3YnqDaU">ESP32 IDE Anleitung</a></p>
-<<<<<<< HEAD
+<p>
 </p>Board Type: NodeMCU-32S </p>
 <p>
- 
-=======
-</p>Use Board Type: NodeMCU-32S </p>
-<p>
 
-hallo
->>>>>>> 936d21c0f70755531496b7e61b661299e4bf7588
