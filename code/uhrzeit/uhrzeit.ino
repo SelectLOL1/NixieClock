@@ -5,8 +5,12 @@ const char* ssid     = "cedes_guest";
 const char* password = "";
 
 const char* ntpServer = "pool.ntp.org";
-const long  gmtOffset_sec = 0;
+const long  gmtOffset_sec = 3600;
 const int   daylightOffset_sec = 3600;
+
+char finishedvalue[50];
+
+char myshitchar[50];
 
 void setup(){
   Serial.begin(115200);
@@ -42,8 +46,9 @@ void printLocalTime(){
     Serial.println("Failed to obtain time");
     return;
   }
-  Serial.print(&timeinfo, "%H");
-  Serial.print(&timeinfo, "%M");
-  Serial.println(&timeinfo, "%S");
+  Serial.println(&timeinfo,"%H%M%S");
+  sprintf(finishedvalue,"%H%M%S",&timeinfo);
+  Serial.println(finishedvalue);
+  
 
 }
