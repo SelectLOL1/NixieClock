@@ -1,7 +1,7 @@
 
 <h1>Michi's Nixie-Clock</h1>
 
-<h2>Description: </h2>
+<h2>Description:  </h2>
 <p>The Nixie Clock is made for Michi, as his parting gift. Features: Youtube and Insatgram Follower Count, watch and a date. 
 The Features are displayed with Nixie Tubes.</p>
 <h2>Task Assignment:</h2>
@@ -26,5 +26,6 @@ The Features are displayed with Nixie Tubes.</p>
 </p>
 <h2>Links: </h2>
 
-<p> <a href="https://www.youtube.com/watch?v=mBaS3YnqDaU">ESP32 IDE Anleitung</a>.</p>
-
+<p> <a href="https://www.youtube.com/watch?v=mBaS3YnqDaU">ESP32 IDE Anleitung</a></p>
+</p>Use Board Type: NodeMCU-32S </p>
+<p>
