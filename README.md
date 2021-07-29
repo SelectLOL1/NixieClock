@@ -8,7 +8,7 @@ Everything is displayed with Nixie Tubes.</p>
 <li>Dario: Code (Software) </li>
 <li>Tino: PCB (Hardware)</li>
 <li>Baris: Background </li>
-<li>Mauro: GitHub & Soldering </li>
+<li>Mauro: GitHub & RGB </li>
 </p>
 <h2>To Do's:</h2>
 <li>Planning </li>
@@ -29,5 +29,8 @@ Everything is displayed with Nixie Tubes.</p>
 <p> <a href="https://www.youtube.com/watch?v=mBaS3YnqDaU">ESP32 IDE Anleitung</a></p>
 <p>
 </p>Board Type: NodeMCU-32S </p>
+
+<p> <a href="http://fastled.io/">FASTLED</a></p>
+
 <p>
 
