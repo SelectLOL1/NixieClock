@@ -4,6 +4,9 @@
 <h2>Description:  </h2>
 <p>The Nixie Clock is made for Michi, as his parting gift. Features: Youtube and Insatgram Follower Count, watch and a date. 
 Everything is displayed with Nixie Tubes.</p>
+
+![Nixie Demo](1609173078356.jpg)
+
 <h2>Task Assignment:</h2>
 <li>Dario: Code (Software) </li>
 <li>Tino: PCB (Hardware)</li>
